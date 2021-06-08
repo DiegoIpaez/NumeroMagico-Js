@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, #5717ce 0%, #116ea4 50%, #2ac5bd 100%);
+}
+
+
+.btn-play {
+  border-radius: 10px;
+  background-color: #060e3b;
+  color: #00eaff;
+}
+.btn-play:hover {
+  background-color: #00eaff;
+  border-color: #00052e;
+}
